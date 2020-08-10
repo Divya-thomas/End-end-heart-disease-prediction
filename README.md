@@ -1,4 +1,4 @@
-# End-end-heart-disease-prediction
+# End-to -end-heart-disease-prediction
 
 Predicting Heart Disease using Machine Learning¶
 This notebook will introduce some foundation machine learning and data science concepts by exploring the problem of heart disease classification.
